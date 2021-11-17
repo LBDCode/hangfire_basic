@@ -1,0 +1,12 @@
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\bin\Debug\net5.0\HangfireDemo.deps.json
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\bin\Debug\net5.0\HangfireDemo.dll
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\bin\Debug\net5.0\ref\HangfireDemo.dll
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\bin\Debug\net5.0\HangfireDemo.pdb
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.csproj.AssemblyReference.cache
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.AssemblyInfoInputs.cache
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.AssemblyInfo.cs
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.csproj.CoreCompileInputs.cache
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.dll
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\ref\HangfireDemo.dll
+C:\Users\lduggan\source\repos\HangfireTutorial2\HangfireDemo\obj\Debug\net5.0\HangfireDemo.pdb
